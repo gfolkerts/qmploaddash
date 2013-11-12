@@ -1,0 +1,111 @@
+.w2ui-tabs {
+	filter: progid:dximagetransform.microsoft.gradient(startColorstr='#ffdae6f3', endColorstr='#ffc2d5ed', GradientType=0);
+	border-right-color: silver;
+	border-left-color: silver;
+	border-top-color: silver;
+	border-top-right-radius: 2px;
+	border-top-left-radius: 2px;		
+}	
+
+
+.timeinfo {
+	top: -20px;
+	width: 50px;
+	position: relative;
+	float: right;	
+	padding-right: 5px;
+	font-family: Tahoma, arial, sans-serif;
+	font-size: 12pt;
+	font-weight: bold;
+	color: #FFFFFF;
+	width: auto;
+}
+
+.qm_INFO {
+	top: -90px;
+	width: 500px;
+	position: relative;
+	float: right;	
+	font-family: Tahoma, arial, sans-serif;
+	font-size: 12pt;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+#qm_HEADER
+{
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 92px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	margin: 0px;
+	background: #BDE0FE;	
+	background-image: none;
+	background-attachment: scroll;
+	background-repeat: repeat;
+	background-position-x: 0%;
+	background-position-y: 0%;
+	background-size: auto;
+	background-origin: padding-box;
+	background-clip: border-box;
+	background-color: #BDE0FE;
+}
+
+.qm_WELCOME
+{
+	width: auto;
+	overflow: hidden;
+	padding-top: 4px;
+	padding-right: 7px;
+	padding-bottom: 4px;
+	padding-left: 7px;
+	border-bottom-color: #ccc;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	background-attachment: scroll;
+	background-repeat: repeat-x;
+	background-position-x: center;
+	background-position-y: top;
+	background-size: auto;
+	background-origin: padding-box;
+	background-clip: border-box;
+//	background-color: #BDE0FE;
+	background-color: rgb(228, 24, 25);	
+}
+.qm_HEADER_WELCOME_TEXT
+{
+	width: auto;
+	padding-left: 5px;
+	margin-top: 5px;
+	float: left;
+}
+.qm_BANNER
+{
+	text-align: left;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	background-attachment: scroll;
+	background-repeat: repeat-y;
+	background-position-x: right;
+	background-position-y: center;
+	background-size: auto;
+	background-origin: padding-box;
+	background-clip: border-box;
+//	background-color: #BDE0FE;
+	background-color: rgb(228, 24, 25);
+	height: 92px;
+}
+.qm_BANNER img
+{
+	height: 92px;
+}

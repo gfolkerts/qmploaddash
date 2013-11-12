@@ -1,0 +1,7 @@
+tr.res-row-even { background: #F0FAFF; }
+tr.res-row-odd { background: #E6F7FF; }
+tr.ans-row-even { background: #FFFFFA; }
+tr.ans-row-odd { background: #FFFFF0; }
+tr.res-header { background:  #A3E0FF; font-weight:bold; }
+td.ans-labels { text-align: left; }
+td.ans-values { text-align: center; }
