@@ -1,7 +1,7 @@
 <?php
 require_once 'config.php';
 require_once 'lib/qmwise.php';
-require_once 'lib/functions.inc';
+require_once 'lib/functions.php';
 
 try {
 	$soap=qmwConnect();
